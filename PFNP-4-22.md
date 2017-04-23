@@ -4,7 +4,7 @@ This is the repo for the code, slides, and instructor notes for General Assembly
 
 ## Class Expectations
 | Expectation | 
-| :---: | :---: |  :---: | 
+| :---: | 
 | Terminology |||
 | Basic Understanding |||
 | Enough knowledge to make small changes |||
