@@ -3,13 +3,20 @@
 This is the repo for the code, slides, and instructor notes for General Assembly's Programming for Non-Programmers, as taught by Joe Keohan.
 
 ## Class Expectations
+| Expectation | 
+| :---: | :---: |  :---: | 
+| Terminology |||
+| Basic Understanding |||
+| Enough knowledge to make small changes |||
+| Ability to talk to developers |||
 
 ## Tools
 | Name | Description | Link | 
 | :---: | :---: |  :---: | 
 | Slack | chat app | [https://pfnp-4-22.slack.com](https://pfnp-4-22.slack.com/messages/@slackbot/) | 
 | Chrome Browser| Used Primarly for Dev Tools| [link](https://www.google.com/chrome/browser/desktop/index.html?brand=CHBD&gclid=CjwKEAjw_uvHBRDUkumF0tLFp3cSJACAIHMYf90Is2IS0ip_K5ebW4Oqgc8xlSevD8oUmiW7TwaZOxoCVRDw_wcB&dclid=CIqy74WcuNMCFUcGDAodTmEC1A)|
-| CodePen| Build out quick mock ups| [link](http://codepen.io)|
+| CodePen| Build out quick mock ups| [link](http://codepen.io) |
+| Repl.it| Test Javascript code | [link](http://repl.it)|
 
 ## Resources
 | Name | Description | Link | 
@@ -19,6 +26,9 @@ This is the repo for the code, slides, and instructor notes for General Assembly
 
 
 ## Terminology
+| Term | Meaning | 
+| :----: | :---: |  
+|||
 
 ## Class Info
 | Name | Email | Github Handle | 
