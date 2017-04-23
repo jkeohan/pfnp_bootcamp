@@ -4,7 +4,7 @@ This is the repo for the code, slides, and instructor notes for General Assembly
 
 ## Class Expectations
 | Expectation | 
-| :---: | 
+| :---: | :---: |  :---: | 
 | Terminology |||
 | Basic Understanding |||
 | Enough knowledge to make small changes |||
@@ -46,6 +46,13 @@ This is the repo for the code, slides, and instructor notes for General Assembly
 | pixels, em, rem, %, vw, vh ||
 | semantic html (header,main,footer) |
 | box model (padding,margin,border,content)||
+|JSON ||
+| pseudocode||
+|funciton ||
+| let, const, var||
+|conditions (if,else if, else||
+| DOM||
+| evelntlistener||
 
 
 ## Class Info
