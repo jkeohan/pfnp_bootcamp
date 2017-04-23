@@ -22,13 +22,31 @@ This is the repo for the code, slides, and instructor notes for General Assembly
 | Name | Description | Link | 
 | :---: | :---: |  :---: | 
 | Slack | chat app | [https://pfnp-4-22.slack.com](https://pfnp-4-22.slack.com/messages/@slackbot/) | 
-| Class Repo | contains files for class..and then some | [https://github.com/jkeohan/pfnp_bootcamp](https://github.com/jkeohan/pfnp_bootcamp) | 
+| Class Repo | contains files for class..and then some | [https://github.com/jkeohan/pfnp_bootcamp](https://github.com/jkeohan/pfnp_bootcamp) | W3Schools ||
 
 
 ## Terminology
 | Term | Meaning | 
 | :----: | :---: |  
-|||
+| element ||
+| emmet ||
+| bootstrap ||
+| responsive ||
+| media queries||
+| adaptive||
+| developer tools ||
+| classes||
+| id's||
+| libraries (js) ||
+| css syntax||
+| API ||
+| FTP ||
+| LI's ||
+| front\back end||
+| pixels, em, rem, %, vw, vh ||
+| semantic html (header,main,footer) |
+| box model (padding,margin,border,content)||
+
 
 ## Class Info
 | Name | Email | Github Handle | 
