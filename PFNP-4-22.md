@@ -3,6 +3,7 @@
 This is the repo for the code, slides, and instructor notes for General Assembly's Programming for Non-Programmers, as taught by Joe Keohan.
 
 ## Class Expectations
+
 | Expectation | 
 | :---: | :---: |  :---: | 
 | Terminology |||
@@ -11,6 +12,7 @@ This is the repo for the code, slides, and instructor notes for General Assembly
 | Ability to talk to developers |||
 
 ## Tools
+
 | Name | Description | Link | 
 | :---: | :---: |  :---: | 
 | Slack | chat app | [https://pfnp-4-22.slack.com](https://pfnp-4-22.slack.com/messages/@slackbot/) | 
